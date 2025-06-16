@@ -62,5 +62,18 @@ img {
   .marcenaria-img img {
     width: 100%;
   }
+.ads-img, .marcenaria-img {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 10px 0;
 }
+
+.ads-img img,
+.marcenaria-img img {
+  width: 100%;
+  max-width: 300px;
+}
+
 
