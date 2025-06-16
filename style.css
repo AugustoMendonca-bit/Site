@@ -1,0 +1,44 @@
+body{
+    background-color: #f4f4f4 ;
+}
+img{
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+h1{
+color: #2c3e50;
+position:absolute;
+top: 5%;
+left: 20%;
+}
+ul{
+    color: #2c3e50;
+    margin-top:-18%;
+    margin-left:18%;
+}
+.ads-img img {
+    width: 250px;
+    border-radius: 10%;
+    position:absolute;
+    top:60%;
+}
+.marcenaria-img img {
+    width: 250px;
+    border-radius: 10%;
+    position:absolute;
+    top:60%;
+    left: 40.33%;
+
+}
+.administração-img img{
+    width: 250px;
+    border-radius: 10%;
+    position:absolute;
+    top:50%;
+    left: 80.33%;
+
+}
+h2{
+    color: #2c3e50;
+}
